@@ -28,4 +28,4 @@ The WSDL file defines the contract of the SOAP web service, including available 
 
 ![WSDL – Hello Service](wsdllocalhost1.png)
 
-The WSDL is accessible via:
+
